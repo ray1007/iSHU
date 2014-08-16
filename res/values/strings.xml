@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">i世新</string>
+    <string name="whats_new_title">What\'s New</string>
+    <string name="camp_title">新生鍛造營</string>
+    <string name="information_title">新生資訊</string>
+    <string name="developers">Developers: Tzu-Ray Su, Patrick Chen Aug,2014.</string>
+
+    <string-array name="whats_new_item_titles">
+        <item>top left</item>
+        <item>top right</item>
+        <item>bottom left</item>
+        <item>bottom right</item>
+    </string-array>
+    <string-array name="whats_new_item_imgIDs">
+        <item>@drawable/whats_new_content_item_img1</item>
+        <item>@drawable/whats_new_content_item_img2</item>
+        <item>@drawable/whats_new_content_item_img3</item>
+        <item>@drawable/whats_new_content_item_img4</item>
+    </string-array>
+
+    <string-array name="camp_item_titles">
+        <item>最新消息</item>
+        <item></item>
+        <item></item>
+        <item>活動內容</item>
+        <item>活動相片</item>
+        <item></item>
+    </string-array>
+    <string-array name="camp_item_imgIDs">
+        <item>@drawable/whats_new_content_item_img1</item>
+        <item>@drawable/whats_new_content_item_img4</item>
+        <item>@drawable/whats_new_content_item_img4</item>
+        <item>@drawable/whats_new_content_item_img2</item>
+        <item>@drawable/whats_new_content_item_img3</item>
+        <item>@drawable/whats_new_content_item_img4</item>
+    </string-array>
+
+    <string-array name="information_item_titles">
+        <item>關於金錢</item>
+        <item>關於生活</item>
+        <item>關於處室</item>
+        <item>關於權益</item>
+    </string-array>
+    <string-array name="information_item_imgIDs">
+        <item>@drawable/whats_new_content_item_img1</item>
+        <item>@drawable/whats_new_content_item_img2</item>
+        <item>@drawable/whats_new_content_item_img3</item>
+        <item>@drawable/whats_new_content_item_img4</item>
+    </string-array>
+
+</resources>
