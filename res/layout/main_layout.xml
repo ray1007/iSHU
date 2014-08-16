@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_scrollView"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <LinearLayout
@@ -15,7 +16,7 @@
                 style="@style/title"
                 android:text="@string/whats_new_title"/>
             <com.Ray.i_shu.multirowGridView
-                android:id="@+id/whats_new_content"
+                android:id="@+id/whatsNew_content"
                 style="@style/content"
                 />
         </LinearLayout>
